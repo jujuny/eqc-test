@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "EQC-test",
-    "currentPage": "page1.html",
+    "currentPage": "home_en.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -445,7 +445,7 @@
         }
       ]
     },
-    "page1.html": {
+    "home_en.html": {
       "settings": {
         "title": "Home_en",
         "meta_descr": "",
