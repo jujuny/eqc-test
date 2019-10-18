@@ -824,7 +824,7 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "Latest generation driver assistance systems can warn the driver depending on the situation, support him or her and even react automatically, for example to maintain the distance to the car in front, the speed or remain in lane, thus making life significantly easier for the driver.<br><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://www.mercedes-benz.co.uk/passengercars/mercedes-benz-cars/models/eqc/safety.html\" data-toolbar=\"-mbrBtnMove\">SAFETY</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.mercedes-benz.co.uk/passengercars/mercedes-benz-cars/models/eqc/safety.html\" data-toolbar=\"-mbrBtnMove\">LEASING AND FINANCING</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://www.mercedes-benz.co.uk/passengercars/mercedes-benz-cars/models/eqc/safety.html\" data-toolbar=\"-mbrBtnMove\">SAFETY</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.mercedes-benz.co.uk/passengercars/buy/latest-offers/application.module.html#!/model/eqc-suv/personal/CH?owda=misc\" data-toolbar=\"-mbrBtnMove\">LEASING AND FINANCING</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/pc501429-2000x1333.jpg",
@@ -841,7 +841,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "You'll be surprised how electric can work for you. And there's no better car to experience it in than the EQC.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://www.mercedes-benz.co.uk/passengercars/mercedes-benz-cars/eqc-registration.html\" data-toolbar=\"-mbrBtnMove\">REGISTER</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.mercedes-benz.co.uk/passengercars/mercedes-benz-cars/models/eqc/offers/pricelist/_jcr_content/par/productinfotextimage/interactions.attachments.0.Mercedes-Benz-Preisliste-EQC-N293.pdf\" data-toolbar=\"-mbrBtnMove\">PRICE LIST</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://www.mercedes-benz.co.uk/passengercars/mercedes-benz-cars/eqc-registration.html\" data-toolbar=\"-mbrBtnMove\">REGISTER</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.mercedes-benz.co.uk/passengercars/mercedes-benz-cars/models/eqc/offers/footnote.module.html\" data-toolbar=\"-mbrBtnMove\">PRICES</a>"
               }
             ]
           }
